@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi! I make stuff.
 
-<!--
-**stovonson/stovonson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In the past, I’ve made websites, Minecraft modpacks, Portal maps and YouTube videos.
 
-Here are some ideas to get you started:
+Currently, I’m making Webham, an online text-based RPG and this website (it’s always a WIP!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m fluent in HTML and CSS; I’m still trying to understand JS! Other than coding, I’m good with most computer stuff in general (Word, Excel, etc.).
+
+I’m also quite a good writer (not my ego, watch a video of mine). I mainly write about large labyrinths, inspired by Aperture Science from Portal and Rapture from BioShock.
+
+I enjoy coding, writing, listening to music, designing, drawing and much more! Too much to list here.
+
+Well, that’s it for now, maybe I’ll add more here later!
